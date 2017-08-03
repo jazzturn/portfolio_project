@@ -1,0 +1,47 @@
+/*body {
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  padding: 15px;
+  font-family: sans-serif;
+}
+
+.content {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 15px;
+}
+
+p {
+  margin: 0 15px;
+  padding: 10px;
+}
+
+img {
+  height: 75%;
+  width: 75%;
+  border-radius: 50%;
+}
+*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+}
+
+.about-section {
+  text-align: center;
+}
+
+.projects-section {
+  width: fixed;
+  display: inline;
+}
